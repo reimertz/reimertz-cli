@@ -5,7 +5,7 @@ reimertz-cli
 
 # Installation
 ```
-npm install reimertz -g
+npm i reimertz -g && reimertz
 ```
 
 # Usage
