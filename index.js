@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs')
 const CliFrames = require("cli-frames")
-const frames = JSON.parse(fs.readFileSync('./frames.json'))
+const frames = JSON.parse(fs.readFileSync(__dirname + '/frames.json'))
 const Table = require('cli-table');
 
 new CliFrames({
