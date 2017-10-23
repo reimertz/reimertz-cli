@@ -1,0 +1,30 @@
+{
+  "name": "reimertz",
+  "version": "1.0.0",
+  "description": "pierre reimertz on the cli",
+  "main": "index.js",
+  "bin": {
+    "reimertz": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reimertz/reimertz.git"
+  },
+  "keywords": [
+    "reimertz",
+    "cli"
+  ],
+  "author": "Pierre Reimertz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reimertz/reimertz/issues"
+  },
+  "homepage": "https://github.com/reimertz/reimertz#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "gif-cli": "^1.2.8"
+  }
+}
