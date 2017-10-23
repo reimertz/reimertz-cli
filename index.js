@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 const fs = require('fs')
 const CliFrames = require("cli-frames")
 const frames = JSON.parse(fs.readFileSync('./frames.json'))

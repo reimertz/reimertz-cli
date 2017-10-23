@@ -1,6 +1,6 @@
 {
   "name": "reimertz",
-  "version": "1.0.0",
+  "version": "1.3.37",
   "description": "pierre reimertz on the cli",
   "main": "index.js",
   "bin": {
